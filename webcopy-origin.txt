@@ -1,0 +1,133 @@
+Uri: https://www.investigadordoperfil.online/loading-profile.svg
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\loading-profile.svg
+Content Type: image/svg+xml
+
+ine\_next\static\chunks\app\(routes)\[locale]\[funil]\error-36d0488aa5ed0f53.js
+Content Type: application/javascript
+
+ript
+
+e: image/png
+
+Uri: https://www.investigadordoperfil.online/header-dm.png
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\header-dm-1.png
+Content Type: image/png
+
+Uri: https://www.investigadordoperfil.online/profile-f.png
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\profile-f-1.png
+Content Type: image/png
+
+Uri: https://www.investigadordoperfil.online/profile-m.png
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\profile-m-1.png
+Content Type: image/png
+
+Uri: https://www.investigadordoperfil.online/profile-new.png
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\profile-new-1.png
+Content Type: image/png
+
+Uri: https://www.investigadordoperfil.online/_next/static/css/d46278c6ef603605.css?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\css\d46278c6ef603605.css
+Content Type: text/css
+
+Uri: https://www.investigadordoperfil.online/_next/static/media/0610ebff456d6cfc-s.woff2
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\media\0610ebff456d6cfc-s-2.woff2
+Content Type: font/woff2
+
+Uri: https://www.investigadordoperfil.online/_next/static/media/21ed5661b47f7f6d-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\media\21ed5661b47f7f6d-s.p-2.woff2
+Content Type: font/woff2
+
+Uri: https://www.investigadordoperfil.online/_next/static/media/8a9e72331fecd08b-s.woff2
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\media\8a9e72331fecd08b-s-2.woff2
+Content Type: font/woff2
+
+Uri: https://www.investigadordoperfil.online/_next/static/media/bde16c1724335d95-s.woff2
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\media\bde16c1724335d95-s-2.woff2
+Content Type: font/woff2
+
+Uri: https://www.investigadordoperfil.online/_next/static/media/e3b8d441242e07fb-s.woff2
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\media\e3b8d441242e07fb-s-2.woff2
+Content Type: font/woff2
+
+lication/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/630-e91f6a7512c73c9f.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\630-e91f6a7512c73c9f-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/8e1d74a4-9fa2e2b0a3931c20.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\8e1d74a4-9fa2e2b0a3931c20-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/app/(routes)/[locale]/[funil]/error-36d0488aa5ed0f53.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\app\(routes)\[locale]\[funil]\error-36d0488aa5ed0f53-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/app/(routes)/[locale]/[funil]/not-found-b837fd6066113d8c.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\app\(routes)\[locale]\[funil]\not-found-b837fd6066113d8c-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/app/(routes)/[locale]/[funil]/page-47f7c73949a880f4.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\app\(routes)\[locale]\[funil]\page-47f7c73949a880f4-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/app/(routes)/[locale]/layout-cf76108f41aab17a.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\app\(routes)\[locale]\layout-cf76108f41aab17a-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/dc112a36-4627e70196a7f48b.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\dc112a36-4627e70196a7f48b-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/f8025e75-8906f79e797dca93.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\f8025e75-8906f79e797dca93-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/fd9d1056-f8a84348e1714b04.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\fd9d1056-f8a84348e1714b04-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/main-app-f73cdb3bce740b12.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\main-app-f73cdb3bce740b12-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\polyfills-78c92fac7aa8fdd8-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/chunks/webpack-d995fbe195b96e72.js?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\chunks\webpack-d995fbe195b96e72-1.js
+Content Type: application/javascript
+
+Uri: https://www.investigadordoperfil.online/_next/static/css/14ce086c284cb65e.css?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\css\14ce086c284cb65e-1.css
+Content Type: text/css
+
+Uri: https://www.investigadordoperfil.online/_next/static/css/8183f632e61a2a5f.css?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\css\8183f632e61a2a5f-1.css
+Content Type: text/css
+
+Uri: https://www.investigadordoperfil.online/_next/static/css/d46278c6ef603605.css?dpl=dpl_HeQ9VUwDmvPtRSxJY3whb1NPwTfC
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\css\d46278c6ef603605-1.css
+Content Type: text/css
+
+Uri: https://www.investigadordoperfil.online/_next/static/media/0610ebff456d6cfc-s.woff2
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\media\0610ebff456d6cfc-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.investigadordoperfil.online/_next/static/media/21ed5661b47f7f6d-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\media\21ed5661b47f7f6d-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.investigadordoperfil.online/_next/static/media/8a9e72331fecd08b-s.woff2
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\media\8a9e72331fecd08b-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.investigadordoperfil.online/_next/static/media/bde16c1724335d95-s.woff2
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\media\bde16c1724335d95-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.investigadordoperfil.online/_next/static/media/e3b8d441242e07fb-s.woff2
+File Name: C:\Downloaded Web Sites\www.investigadordoperfil.online\_next\static\media\e3b8d441242e07fb-s.woff2
+Content Type: font/woff2
+
